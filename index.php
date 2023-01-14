@@ -1,4 +1,4 @@
 <?php
 require "vendor/autoload.php";
 
-(new \Zwl\Test\ComposerTest())->test();
+(new \ZwlHandSomeBoy\Test\ComposerTest())->test();//1

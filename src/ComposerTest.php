@@ -1,6 +1,6 @@
 <?php
 
-namespace Zwl\Test;
+namespace ZwlHandSomeBoy\Test;
 class ComposerTest
 {
     public function test()

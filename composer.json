@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Zwl\\Test\\": "src/"
+            "ZwlHandSomeBoy\\Test\\": "src/"
         }
     },
     "authors": [
