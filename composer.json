@@ -1,0 +1,21 @@
+{
+    "name": "zwl/test",
+    "description": "this is a test",
+    "type": "l",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zwl\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zwl7",
+            "email": "1021103065@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
